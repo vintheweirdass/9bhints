@@ -1,15 +1,15 @@
 [name]
-acronym = "IPS"
-full_form = "Ilmu Pengetahuan Sosial"
+acronym = "IPA"
+full_form = "Ilmu Pengetahuan Alam"
 
-points = ["Keragaman Lingkungan Alam dan Masyarakat Dunia", "Kebijakan Pariwisata", "Kerjasama Ekonomi", "Orde Lama", "Orde Baru"]
+points = [] # ["Apapun ini"]
 
 [exam]
 date = 2025-05-06
 
 [exam.time]
-from = 15:00:00
-to = 16:30:00
+from = 13:00:00
+to = 14:30:00
 
 [exam.outline.multiple_choice]
 questions = 30
