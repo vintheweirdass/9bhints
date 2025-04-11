@@ -1,0 +1,35 @@
+[name]
+acronym = "IPS"
+full_form = "Ilmu Pengetahuan Sosial"
+
+points = ["Keragaman Lingkungan Alam dan Masyarakat Dunia", "Kebijakan Pariwisata", "Kerjasama Ekonomi", "Orde Lama", "Orde Baru"]
+
+[exam]
+date = 2025-05-06
+
+[exam.time]
+from = 15:00:00
+to = 16:30:00
+
+[exam.outline.multiple_choice]
+questions = 30
+
+[[exam.outline.multiple_choice.topics]]
+topic = "sifat fisika kimia tanah"
+questions = 5
+
+[[exam.outline.multiple_choice.topics]]
+topic = "pewarisan sifat"
+questions = 5
+
+[[exam.outline.multiple_choice.topics]]
+topic = "magnet dan listrik"
+questions = 10
+
+[[exam.outline.multiple_choice.topics]]
+topic = "reproduksi"
+questions = 5
+
+[[exam.outline.multiple_choice.topics]]
+topic = "bioteknologi"
+questions = 5
